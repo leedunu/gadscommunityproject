@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A83BF</color>
+    <color name="colorPrimaryDark">#084888</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colormix">#8decf7</color>
+    <color name="colorbg">#2CD0EEAF</color>
+    <color name="teacherbg">#9FA1C5</color>
+    <color name="recyclerbg">#5C5E53</color>
+    <color name="loginbg">#F5F8F8</color>
+</resources>

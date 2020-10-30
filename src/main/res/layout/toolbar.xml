@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark">
+
+    <item
+        android:id="@+id/home"
+        android:title="home" />
+
+    <item
+        android:id="@+id/about"
+        android:title="about" />
+
+    <item
+        android:id="@+id/course"
+        android:title="add course" />
+
+    <item
+        android:id="@+id/exercises"
+        android:title="exercise" />
+
+    <item
+        android:id="@+id/log_out"
+        android:title="log out" />
+
+
+</androidx.appcompat.widget.Toolbar>
